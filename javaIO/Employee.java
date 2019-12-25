@@ -10,6 +10,10 @@ public class Employee{
     System.out.println("第一个构造函数:");
       this.name = name;
    }
+//    public Employee(int name){
+//     System.out.println("第一个构造函数:");
+//       this.name = name;
+//    }
     // public Employee2(String name){
     //     System.out.println("第二个构造函数:");
     // }
